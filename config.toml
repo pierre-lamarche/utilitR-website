@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "https://admiring-wing-dc4043.netlify.app/"
 title = "utilitR"
 theme = "airspace"
 # post pagination
