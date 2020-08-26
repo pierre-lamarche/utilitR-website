@@ -1,0 +1,76 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  # bg_image : "images/neonbrand-1-aA2Fadydc-unsplash.jpg"
+  title : "Une documentation utile pour R"
+  content : "Un projet collaboratif"
+  button:
+    enable : true
+    label : "Découvrez la documentation"
+    link : "https://linogaliana.gitlab.io/documentationR/index.html"
+
+############################# About #################################
+about:
+  enable : true
+  title : "Qu'est-ce qu'utilitR"
+  description : "Description du projet utilitR"
+  content : "
+  Plus de détails à venir
+  "
+  #image : "images/thought-catalog-Nv-vx3kUR2A-unsplash.jpg"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : false
+  bg_image : "images/featue-bg.jpg"
+  title : "WE BELIEVE IN GREAT IDEAS"
+  content : "
+  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+
+  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+
+  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  "
+  button:
+    enable : true
+    label : "View Works"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/nordwood-themes-bJjsKbToY34-unsplash.jpg"
+  title : "Un mode de travail collaboratif"
+  content : "
+  Le projet est hébergé sur [gitlab](https://gitlab.com/linogaliana/documentationR)...
+  "
+  button:
+    enable : true
+    label : "Découvrir les fichiers sources"
+    link : "https://gitlab.com/linogaliana/documentationR"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Quelques statistiques"
+  # description : ""
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nombre de contributeurs"
+      count : "0"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nombre de fiches"
+      count : "0"
