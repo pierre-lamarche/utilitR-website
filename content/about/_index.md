@@ -5,4 +5,4 @@ draft: false
 bg_image: "images/featue-bg.jpg"
 ---
 
-Contenu à venir
+Site en construction, contenu à venir
