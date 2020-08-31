@@ -3,7 +3,9 @@ banner:
   enable : true
   # bg_image : "images/neonbrand-1-aA2Fadydc-unsplash.jpg"
   title : "Une documentation utile pour R"
-  content : "Un projet collaboratif"
+  content : "Une documentation de qualité produite de manière
+    collaborative
+    "
   button:
     enable : true
     label : "Découvrez la documentation"
