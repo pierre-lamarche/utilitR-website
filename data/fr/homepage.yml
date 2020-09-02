@@ -70,9 +70,14 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Nombre de contributeurs"
-      count : "0"
+      count : "21"
       
     # funfacts item loop
+    - icon : "ion-ios-bookmarks-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Nombre de fiches déjà déployées"
+      count : "19"
+
+    # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Nombre de fiches"
-      count : "0"
+      name : "Nombre de fiches en cours de développement"
+      count : "5"
