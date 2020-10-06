@@ -9,7 +9,7 @@ banner:
   button:
     enable : true
     label : "Découvrez la documentation"
-    link : "https://linogaliana.gitlab.io/documentationR/index.html"
+    link : "http://www.book.utilitr.org/"
 
 ############################# About #################################
 about:

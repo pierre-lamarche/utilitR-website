@@ -225,7 +225,7 @@ weight = 2
 
 [[Languages.fr.menu.main]]
 name = "Documentation"
-URL = "https://linogaliana.gitlab.io/documentationR/index.html"
+URL = "http://www.book.utilitr.org/"
 weight = 3
 
 # footer menu
