@@ -225,7 +225,7 @@ weight = 2
 
 [[Languages.fr.menu.main]]
 name = "Documentation"
-URL = "http://www.book.utilitr.org/"
+URL = "https://www.book.utilitr.org/"
 weight = 3
 
 # footer menu
