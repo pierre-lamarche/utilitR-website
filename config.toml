@@ -201,6 +201,13 @@ map_marker = "images/marker.png"
 # URL = "contact"
 # weight = 6
 
+
+################################ Custom CSS ########################
+
+[params]
+    custom_css = ["css/customCSS.css"]
+
+
 ################################ France Language ########################
 [Languages.fr]
 languageName = "Fr"
