@@ -9,7 +9,7 @@ banner:
   button:
     enable : true
     label : "Découvrez la documentation"
-    link : "http://www.book.utilitr.org/"
+    link : "https://www.book.utilitr.org/"
 
 ############################# About #################################
 about:
