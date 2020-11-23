@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  # bg_image : "images/neonbrand-1-aA2Fadydc-unsplash.jpg"
+  bg_image : "images/logo-utilitr.svg"
   title : "Une documentation utile pour R"
   content : "Une documentation de qualité produite de manière
     collaborative
