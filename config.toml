@@ -59,10 +59,11 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 #################### default parameters ################################
 [params]
-# logo = "images/logo.png"
+#logo = "images/logo-utilitr.png"
 # Meta data
 description = "utilitR: une documentation utile pour `R`"
 author = "Lino Galiana"
+custom_css = ["css/customCSS.css"]
 
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
@@ -201,11 +202,7 @@ map_marker = "images/marker.png"
 # URL = "contact"
 # weight = 6
 
-
-################################ Custom CSS ########################
-
-[params]
-    custom_css = ["css/customCSS.css"]
+    
 
 
 ################################ France Language ########################
