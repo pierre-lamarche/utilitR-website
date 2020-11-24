@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/logo-utilitr.png"
+  bg_image : "images/logo-utilitr-right.png"
   title : "Une documentation utile pour R"
   content : "Une documentation de qualité produite de manière
     collaborative
@@ -51,10 +51,10 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/nordwood-themes-bJjsKbToY34-unsplash.jpg"
+  bg_image : "images/fond-banner.png"
   title : "Un mode de travail collaboratif"
   content : "
-  Le projet est hébergé sur [gitlab](https://gitlab.com/linogaliana/documentationR)...
+  Le projet est hébergé sur [Gitlab](https://gitlab.com/linogaliana/documentationR)...
   "
   button:
     enable : true

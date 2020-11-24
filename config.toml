@@ -59,7 +59,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 #################### default parameters ################################
 [params]
-#logo = "images/logo-utilitr.png"
+logo = "images/logo-utilitr-minus.png"
 # Meta data
 description = "utilitR: une documentation utile pour `R`"
 author = "Lino Galiana"
