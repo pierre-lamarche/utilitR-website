@@ -54,12 +54,12 @@ cta:
   bg_image : "images/fond-banner.png"
   title : "Un mode de travail collaboratif"
   content : "
-  Le projet est hébergé sur [Github](https://gitlab.com/linogaliana/documentationR)...
+  Le projet est hébergé sur [Github](https://github.com/InseeFrLab/utilitR)...
   "
   button:
     enable : true
     label : "Découvrir les fichiers sources"
-    link : "https://gitlab.com/linogaliana/documentationR"
+    link : "https://github.com/InseeFrLab/utilitR"
 
 ############################# Funfacts ###############################
 funfacts:
