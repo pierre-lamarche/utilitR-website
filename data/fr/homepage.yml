@@ -14,13 +14,26 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Qu'est-ce qu'utilitR"
-  description : "Description du projet utilitR"
+  title : "Qu'est-ce qu'`utilitR` ?"
+  description : "Description du projet `utilitR`"
   content : "
-  Plus de détails à venir
+  Le projet `UtilitR` est une documentation sur l'usage du logiciel `R`
+  destinée à tout
+  utilisateur intéressé par la manipulation de données sans pré-requis
+  de niveau.
+  
+  Cette documentation, née à l'Insee,
+  recommande les outils et les packages les plus adaptés et propose
+  de bonnes pratiques pour manipuler des données avec `R`. 
+  
+  Elle propose ainsi un panorama des possibilités offertes
+  par le logiciel qui peuvent bénéficier à la statistique publique
   "
   image : "images/logo-utilitr.png"
-
+  button:
+    enable : true
+    label : "En savoir plus sur UtilitR"
+    link : "about/utilitr"
 
 ######################### Portfolio ###############################
 portfolio:
