@@ -37,7 +37,7 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : false
+  enable : true
   bg_image : "images/featue-bg.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
   content : "
@@ -52,7 +52,7 @@ portfolio:
   button:
     enable : true
     label : "View Works"
-    link : "project"
+    link : "projects"
 
 
 ############################# Service ############################

@@ -1,11 +1,14 @@
 ---
 title: "Le projet utilitR"
-description: "Présentation"
+author: "La team utilitR"
+date: 2021-01-01
+description: "Présentation du projet utilitR"
 draft: false
 bg_image: "images/logo-utilitr.png"
+categories: ["Le projet utilitR"]
+tags: ["presentation"]
+type: "post"
 ---
-
-Cette page présente le projet `utilitR`
 
 ## Qu'est-ce que le projet `utilitR` ?
 
@@ -15,12 +18,18 @@ Cette documentation en français est rédigée par des utilisateurs de `R`. Elle
 
 ## Que contient la documentation `utilitR` ?
 
-Le principal élément du projet `utilitR` est, à l'heure actuelle, la documentation [disponible ici](www.book.utilitr.org). 
+Le projet `utilitR` a vocation à
+produire un guide des bonnes pratiques et des fiches techniques.
+A l'heure actuelle, elle prend la forme suivante :
+
+* la documentation principale qui est déployée à l'adresse <https://www.book.utilitr.org/> ;
+* un guide des bonnes pratiques en `R` déployé à l'adresse <https://www.pratiques.utilitr.org/>
+
 
 Cette documentation se compose d'un ensemble de fiches pratiques, conçues pour aider les utilisateurs de `R` à réaliser des traitements statistiques usuels. Chaque fiche présente succinctement les outils les plus adaptés pour réaliser une certaine tâche, propose des exemples de code commentés et faciles à réutiliser ainsi que des conseils sur la stratégie à adopter pour réaliser une tâche.
 
 Les fiches renvoient également vers des ressources documentaires plus développées, pour les utilisateurs avancés.
-Pour le moment, la documentation est structurée en trois grandes parties :
+Pour le moment, les deux sites de documentation répondent à trois objectifs :
 
 * Comment configurer R pour mener des projets statistiques ?
 * Comment réaliser des tâches standards avec R ?
