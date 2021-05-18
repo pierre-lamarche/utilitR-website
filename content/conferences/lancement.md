@@ -28,7 +28,7 @@ Si vous vous posez ces questions, c'est que **la documentation utilitR est faite
 >
 > Réservez les dates dans vos agendas !
 
-Ces matinées vous sont principalement proposées via zoom, à la direction générale comme en direction régionale (des salles pourraient également être réservées au White sous réserve des conditions sanitaires).
+Ces matinées sont **ouvertes à tous les agents du système statistique public**. Elles sont principalement proposées via zoom. Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires.
 
 Un "replay" de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
