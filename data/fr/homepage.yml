@@ -37,22 +37,19 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : false
-  bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  enable : true
+#  bg_image : "images/logo-utilitr.png"
+  title : "Matinées de découverte d'`utilitR`"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  A l'occasion de la sortie de la première version d'`utilitR`,
+  nous organisons les **`matinées de découverte d'utilitR`**
+  en visio le **8 juin et 9 juin 2021 de 10h à 12h30**
+  
   "
   button:
     enable : true
-    label : "View Works"
-    link : "projects"
+    label : "Voir le programme"
+    link : "conferences/decouverte-utilitr"
 
 
 ############################# Service ############################
