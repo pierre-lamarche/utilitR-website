@@ -2,8 +2,8 @@
 abstract: "Matinées de découverte d'utilitR qui auront lieu les 8 juin et 9 juin 2021 de 10h à 12h30"
 all_day: false
 authors: []
-# date: "2021-06-08T10:00:00Z"
-# date_end: "2021-06-09T12:30:00Z"
+date: "2021-06-08T10:00:00Z"
+date_end: "2021-06-09T12:30:00Z"
 event: Matinées de découverte d'`utilitR`
 #event_url: https://example.org
 featured: true
@@ -18,7 +18,7 @@ featured: true
 # location: Wowchemy HQ
 # projects:
 # - internal-project
-publishDate: "2021-05-20T00:00:00Z"
+#publishDate: "2021-05-20T00:00:00Z"
 # slides: example
 summary: Information sur l'événement
 tags: ["découvrir utilitR"]
@@ -30,14 +30,19 @@ url_video: ""
 slug: decouverte-utilitr
 ---
 
-A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux
+A l'occasion de la sortie de la première version d'`utilitR`, vous êtes tous invités aux
 **matinées de découverte d'utilitR** qui auront lieu les
 **8 juin et 9 juin 2021 de 10h à 12h30**.
 
-Réservez les dates dans vos agendas !
+Réservez les dates dans vos agendas ! :date: :calendar:
 
-Ces matinées sont proposées via **`zoom`**.
+Ces matinées sont proposées via **`Zoom`** (créneaux ajoutés prochainement).
+
 Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+
+*N'hésitez pas à vous inscrire sur le [SSP Cloud](https://www.datalab.sspcloud.fr/)
+pour tester les exemples présentés.*
+
 
 ## Programme
 

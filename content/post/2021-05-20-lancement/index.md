@@ -1,9 +1,9 @@
 ---
-title: "Programme des matinées de découverte utilitR"
+title: "Matinées de découverte utilitR"
 author: admin
 date: 2021-05-17
 description: "Pour découvrir le projet utilitR, rendez-vous les 8 juin et 9 juin 2021 de 10h à 12h30"
-draft: false
+draft: true
 categories: ["Le projet utilitR"]
 tags: ["presentation","conferences"]
 featured: true
@@ -13,16 +13,10 @@ image:
 slug: decouverte-utilitr
 ---
 
-> A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux **matinées de découverte d'utilitR** qui auront lieu les **8 juin et 9 juin 2021 de 10h à 12h30**
-> 
-> Réservez les dates dans vos agendas !
-
-**Cette page sera enrichie ultérieurement**
-
+Le programme est disponible [ici](/conferences/decouverte-utilitr/)
 
 
 ## Présentation de l'événement
-
 
 * Comment importer une table SAS avec R ?
 * Comment faire des graphiques avec R ? 
