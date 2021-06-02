@@ -105,7 +105,7 @@ Deux sessions de 2h30 sont prévues :
   <tr>
     <td class="tg-0lax">11h40</td>
     <td class="tg-0lax">11h50</td>
-    <td class="tg-baqh" colspan="6">Retour en présentiel </td>
+    <td class="tg-baqh" colspan="6">Retour en session plénière </td>
   </tr>
   <tr>
     <td class="tg-0lax">11h50</td>
