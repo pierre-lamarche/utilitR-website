@@ -81,17 +81,17 @@ Deux sessions de 2h30 sont prévues :
   </tr>
   <tr>
     <td class="tg-0lax">10h10</td>
-    <td class="tg-0lax">10h40</td>
+    <td class="tg-0lax">10h50</td>
     <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers </td>
   </tr>
   <tr>
-    <td class="tg-0lax">10h40</td>
     <td class="tg-0lax">10h50</td>
+    <td class="tg-0lax">11h00</td>
     <td class="tg-baqh" colspan="6">Répartition en ateliers <i class="fab fa-r-project"></i> </td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">10h50</td>
-    <td class="tg-0lax" rowspan="2">11h40</td>
+    <td class="tg-0lax" rowspan="2">11h00</td>
+    <td class="tg-0lax" rowspan="2">11h50</td>
     <td class="tg-baqh" colspan="6">Ateliers virtuels</td>
   </tr>
   <tr>
@@ -103,12 +103,12 @@ Deux sessions de 2h30 sont prévues :
     <td class="tg-0lax" style = "width: 16%;">Travailler avec des bases de données en <code>R</code> : les fichiers détails du Recensement de la Population</td>
   </tr>
   <tr>
-    <td class="tg-0lax">11h40</td>
     <td class="tg-0lax">11h50</td>
+    <td class="tg-0lax">12h00</td>
     <td class="tg-baqh" colspan="6">Retour en session plénière </td>
   </tr>
   <tr>
-    <td class="tg-0lax">11h50</td>
+    <td class="tg-0lax">12h00</td>
     <td class="tg-0lax">12h20</td>
     <td class="tg-baqh" colspan="6"><code>utilitR</code> dans l’ensemble des ressources d’apprentissage de <code>R</code></td>
   </tr>
