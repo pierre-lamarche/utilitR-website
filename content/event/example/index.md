@@ -38,11 +38,12 @@ Réservez les dates dans vos agendas ! :date: :calendar:
 
 Ces matinées sont proposées via **`Zoom`** (créneaux ajoutés prochainement).
 
-Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
 *N'hésitez pas à vous inscrire sur le [SSP Cloud](https://www.datalab.sspcloud.fr/)
-pour tester les exemples présentés.*
-
+pour tester les exemples présentés.* Un environnement avec toutes les 
+dépendances pré-installées est disponible sur le lien suivant: 
+[![SSPcloud](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational?logo=R)](https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?onyxia.friendlyName=%C2%ABrstudio-utilitr%C2%BB&init.personnalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2FutilitR%2Fmaster%2Fresources%2Finit_9juin.sh%C2%BB&r.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB)
 
 ## Programme
 
