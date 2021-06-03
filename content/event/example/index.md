@@ -15,7 +15,7 @@ featured: true
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# location: Wowchemy HQ
+location: Visioconférence Zoom
 # projects:
 # - internal-project
 publishDate: "2021-05-20T00:00:00Z"
@@ -182,7 +182,7 @@ Deux sessions de 2h30 sont prévues :
   </tr>
   <tr>
     <td class="tg-0pky">Se former à l'utilisation de <code>Git</code> avec <code>RStudio</code></td>
-    <td class="tg-0pky">Utilisation de l'intégration continue avec <code>Git</code> et <code>Rmarkdown</code> par la cellule de crise covid de la Drees</td>
+    <td class="tg-0pky">Utilisation de l'intégration continue avec <code>Gitlab</code> par la DREES en appui à la cellule de crise Covid</td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="2">11h15</td>
