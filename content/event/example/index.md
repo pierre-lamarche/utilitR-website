@@ -71,7 +71,7 @@ Deux sessions de 2h30 sont prévues :
   <tr>
     <th class="tg-0lax">9h30</th>
     <th class="tg-0lax">10h00</th>
-    <th class="tg-baqh" colspan="6">Accueil</th>
+    <th class="tg-baqh" colspan="6">Accueil (atelier de création de comptes SSPCloud)</th>
   </tr>
 </thead>
 <tbody>
@@ -156,7 +156,7 @@ Deux sessions de 2h30 sont prévues :
   <tr>
     <th class="tg-0pky">9h50</th>
     <th class="tg-0pky">10h</th>
-    <th class="tg-c3ow" colspan="2">Accueil</th>
+    <th class="tg-c3ow" colspan="2">Accueil (atelier de création de comptes SSPCloud)</th>
   </tr>
 </thead>
 <tbody>
@@ -217,9 +217,9 @@ Deux sessions de 2h30 sont prévues :
     + Se former à l'utilisation de Git avec RStudio
     + Utilisation de l'intégration continue avec Git et Rmarkdown par la cellule de crise covid de la Drees
 * 11h15-11h45: Retours d'expérience supplémentaires (sessions parallèles)   
-    + Mise en place d’une auto-formation à R : l’exemple du Grand Est
+    + Mise en place d’une auto-formation à R : l’exemple du Grand Est
     + Rédaction collaborative des notes et points de conjoncture depuis Gitlab
 * 11h50-12h20: La démarche PROPRE, PROcessus de Publications REproductibles (session plénière)
-* 12h20: Conclusion et perspectives : vers l’infini et au-delà !
+* 12h20: Conclusion et perspectives : vers l’infini et au-delà !
 
 -------->
