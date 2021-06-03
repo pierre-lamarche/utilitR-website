@@ -69,7 +69,7 @@ Deux sessions de 2h30 sont prévues :
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">9h50</th>
+    <th class="tg-0lax">9h30</th>
     <th class="tg-0lax">10h00</th>
     <th class="tg-baqh" colspan="6">Accueil</th>
   </tr>
