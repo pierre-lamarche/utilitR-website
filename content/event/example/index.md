@@ -83,7 +83,7 @@ Deux sessions de 2h30 sont prévues :
   <tr>
     <td class="tg-0lax">10h10</td>
     <td class="tg-0lax">10h50</td>
-    <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers </td>
+    <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers, questions-réponses </td>
   </tr>
   <tr>
     <td class="tg-0lax">10h50</td>
