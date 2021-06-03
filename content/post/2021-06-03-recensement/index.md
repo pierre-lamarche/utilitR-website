@@ -1,5 +1,5 @@
 ---
-title: "Travailler avec des bases de données en `R` : les fichiers détails du Recensement de la Population"
+title: "Travailler avec des bases de données en R : les fichiers détails du Recensement de la Population"
 author: admin
 date: 2021-06-01
 description: "Présentation de l'apport des bases de données en R avec les fichiers du recensement"
