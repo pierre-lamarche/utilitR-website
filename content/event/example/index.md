@@ -162,6 +162,11 @@ Deux sessions de 2h30 sont prévues :
 <tbody>
   <tr>
     <td class="tg-0pky">10h</td>
+    <td class="tg-0pky">10h05</td>
+    <td class="tg-c3ow" colspan="2">Mot d'accueil</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10h05</td>
     <td class="tg-0pky">10h30</td>
     <td class="tg-c3ow" colspan="2">Présentation de la démarche collaborative<br> <code>utilitR</code></td>
   </tr>
