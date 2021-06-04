@@ -10,9 +10,15 @@ main:
   - name: A propos
     url: './post/about-utilitr/'
     weight: 20
-  - name: Documentation
+  - name: Documentation principale
     url: 'https://www.book.utilitr.org'
     weight: 30
+  - name: Guide des bonnes pratiques
+    url: 'https://www.pratiques.utilitr.org'
+    weight: 35
   - name: Github
     url: 'https://www.github.com/inseefrlab/utilitr'
     weight: 40
+  - name: Matinées utilitR
+    url: './conferences/decouverte-utilitr/'
+    weight: 50
