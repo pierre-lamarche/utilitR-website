@@ -32,19 +32,18 @@ slug: decouverte-utilitr
 
 A l'occasion de la sortie de la première version d'`utilitR`, vous êtes tous invités aux
 **matinées de découverte d'utilitR** qui auront lieu les
-**8 juin et 9 juin 2021 de 10h à 12h30**.
-
-Réservez les dates dans vos agendas ! :date: :calendar:
+**8 juin et 9 juin 2021 de 10h à 12h30**. Réservez les dates dans vos agendas ! :date: :calendar:
 
 Ces matinées sont proposées via **`Zoom`**. Les informations d'accès sont disponibles
-plus loin sur [cette page :point_down:](#liens-zoom)
-
-Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+plus loin sur [cette page :point_down:](#liens-zoom). Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
 **N'hésitez pas à vous inscrire sur le [SSP Cloud](https://datalab.sspcloud.fr)
 pour tester les exemples présentés.** Un environnement avec toutes les 
 dépendances pré-installées est disponible sur le lien suivant: 
 [![SSPcloud](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational?logo=R)](https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?onyxia.friendlyName=%C2%ABrstudio-utilitr%C2%BB&init.personnalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2FutilitR%2Fmaster%2Fresources%2Finit_9juin.sh%C2%BB&r.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB)
+
+Au cours des matinées, vous pourrez poser toutes vos questions sur le salon Tchap des matinées `utilitR`, qui s'appelle `Matinees_utilitR`. Pour rejoindre ce salon c'est très simple : depuis votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `matinee` et choisir `Matinees_utilitR`.
+
 
 ## Programme
 
