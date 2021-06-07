@@ -15,7 +15,7 @@ featured: true
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-location: Visioconférence Zoom (liens plus bas)
+location: Visioconférence Zoom ([liens plus bas](#liens-zoom))
 # projects:
 # - internal-project
 publishDate: "2021-05-20T00:00:00Z"
