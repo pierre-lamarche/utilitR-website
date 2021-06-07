@@ -397,7 +397,7 @@ sont fournis.
   <tr>
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
-    <td class="tg-cly1">Utilisation de l'intégration continue avec Git et Rmarkdown par la cellule de crise covid de la Drees</td>
+    <td class="tg-cly1">Utilisation de l’intégration continue avec Gitlab par la DREES en appui à la cellule de crise Covid </td>
     <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">946 3648 5688</td>
     <td class="tg-cly1">970538</td>
