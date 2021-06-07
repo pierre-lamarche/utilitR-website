@@ -42,7 +42,10 @@ pour tester les exemples présentés.** Un environnement avec toutes les
 dépendances pré-installées est disponible sur le lien suivant: 
 [![SSPcloud](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational?logo=R)](https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?onyxia.friendlyName=%C2%ABrstudio-utilitr%C2%BB&init.personnalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2FutilitR%2Fmaster%2Fresources%2Finit_9juin.sh%C2%BB&r.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB)
 
-Au cours des matinées, vous pourrez poser toutes vos questions sur le salon Tchap des matinées `utilitR`, qui s'appelle `Matinees_utilitR`. Pour rejoindre ce salon c'est très simple : depuis votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `matinee` et choisir `Matinees_utilitR`.
+Au cours des matinées, vous pourrez poser toutes vos questions sur le salon Tchap des matinées `utilitR`, qui s'appelle `Matinees_utilitR`. Pour rejoindre ce salon c'est très simple, il y a deux méthodes :
+
+- Vous cliquez sur ce [lien](https://www.tchap.gouv.fr/#/room/#matinees_utilitR:agent.finances.tchap.gouv.fr) ;
+- Dans votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `matinee` ou `utilitr` et choisir `Matinees_utilitR`.
 
 
 ## Programme
