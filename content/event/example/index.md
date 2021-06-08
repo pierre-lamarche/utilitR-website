@@ -47,6 +47,8 @@ Au cours des matinées, vous pourrez poser toutes vos questions sur le salon Tch
 - Vous cliquez sur ce [lien](https://www.tchap.gouv.fr/#/room/#matinees_utilitR:agent.finances.tchap.gouv.fr) ;
 - Dans votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `matinee` ou `utilitr` et choisir `Matinees_utilitR`.
 
+Ajout contenu slides: https://ecstatic-minsky-96c002.netlify.app/#11
+
 
 ## Programme
 
