@@ -204,7 +204,7 @@ Deux sessions de 2h30 sont prévues :
   <tr>
     <td class="tg-0pky">12h20</td>
     <td class="tg-0pky">12h30</td>
-    <td class="tg-c3ow" colspan="2">Conclusion et perspectives : vers l’infini et au-delà !</td>
+    <td class="tg-c3ow" colspan="2">Conclusion et perspectives : vers l’infini et au-delà ! 🚀 </td>
   </tr>
 </tbody>
 </table>
