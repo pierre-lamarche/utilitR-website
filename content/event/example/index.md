@@ -34,7 +34,7 @@ A l'occasion de la sortie de la première version d'`utilitR`, vous êtes tous i
 **matinées de découverte d'utilitR** qui auront lieu les
 **8 juin et 9 juin 2021 de 10h à 12h30**. Réservez les dates dans vos agendas ! :date: :calendar:
 
-Ces matinées sont proposées via **`Zoom`**. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+Ces matinées sont proposées via **`Zoom`**. Un [*"replay"*](#replay) de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
 **N'hésitez pas à vous inscrire sur le [SSP Cloud](https://datalab.sspcloud.fr)
 pour tester les exemples présentés.** Un environnement avec toutes les 
@@ -208,8 +208,7 @@ Deux sessions de 2h30 sont prévues :
 </tbody>
 </table>
 
-# Diapos
-
+# Diapos {#diapos}
 
 * Ateliers et sessions plénières
     + Les présentations `utilitR` (ateliers et plénières) sont disponibles sur [www.presentations.utilitr.org](https://www.presentations.utilitr.org) ;
@@ -224,4 +223,4 @@ Deux sessions de 2h30 sont prévues :
 
 ## Replay {#replay}
 
-Les liens sont à venir
+Les liens seront ajoutés ultérieurement
