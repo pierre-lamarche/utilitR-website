@@ -44,7 +44,7 @@ dépendances pré-installées est disponible sur le lien suivant:
 Au cours des matinées, vous pourrez poser toutes vos questions sur le salon Tchap des matinées `utilitR`, qui s'appelle `Matinees_utilitR`. Pour rejoindre ce salon c'est très simple, il y a deux méthodes :
 
 - Vous cliquez sur ce [lien](https://www.tchap.gouv.fr/#/room/#matinees_utilitR:agent.finances.tchap.gouv.fr) ;
-- Dans votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `matinee` ou `utilitr` et choisir `Matinees_utilitR`.
+- Dans votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `utilitr` et choisir `utilitR-contact`.
 
 
 ## Programme
