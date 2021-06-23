@@ -223,10 +223,26 @@ Deux sessions de 2h30 sont prévues :
 
 ## Replay {#replay}
 
+* Session plénière : présentation d'`utilitR`
+
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4" >}}
+
+* Session plénière : `utilitR` dans l’ensemble des ressources d’apprentissage de `R`
+
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere2.mp4" >}}
+
+* Atelier : découvrir le `tidyverse`
+
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-tidyverse.mp4" >}}
+
+* Atelier : découvrir `data.table`
+
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-datatable.mp4" >}}
 
+* Session plénière : Présentation de la démarche collaborative `utilitR`
+
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere.mp4" >}}
+
+* Session plénière : Présentation de la démarche `PROPRE`
+
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere2.mp4" >}}
