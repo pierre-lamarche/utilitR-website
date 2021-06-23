@@ -223,4 +223,7 @@ Deux sessions de 2h30 sont prévues :
 
 ## Replay {#replay}
 
-Les liens seront ajoutés ultérieurement
+
+<video controls>
+  <source src=”https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4″ type=”video/mp4″>
+</video>
