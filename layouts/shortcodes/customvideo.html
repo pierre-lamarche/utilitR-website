@@ -1,0 +1,8 @@
+{{/* Enable video to be loaded from webpage */}}
+
+{{ $video := printf "%s" (.Get "src") }}
+{{ $video_type := strings.TrimPrefix "." (path.Ext (.Get "src")) }}
+
+<video controls>
+  <source src="{{ $video }}" type="video/{{$video_type}}">
+</video>
