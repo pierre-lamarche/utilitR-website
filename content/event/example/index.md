@@ -224,3 +224,9 @@ Deux sessions de 2h30 sont prévues :
 ## Replay {#replay}
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4" >}}
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere2.mp4" >}}
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-tidyverse.mp4" >}}
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-datatable.mp4" >}}
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere.mp4" >}}
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere2.mp4" >}}
