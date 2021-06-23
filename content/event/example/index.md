@@ -225,5 +225,5 @@ Deux sessions de 2h30 sont prévues :
 
 
 <video controls>
-  <source src=”https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4″ type=”video/mp4″>
+  <source src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4" type="video/mp4">
 </video>
